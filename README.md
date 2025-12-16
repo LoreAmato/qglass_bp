@@ -37,7 +37,7 @@ See the `examples/` directory for detailed Jupyter notebooks demonstrating:
 
 The code implements the transverse field quantum Ising model:
 
-**Hamiltonian**: H = -Σ_{<ij>} J_{ij} σ^z_i σ^z_j - Γ Σ_i σ^x_i
+**Hamiltonian**: H = -Σ_{ij} J_{ij} σ^z_i σ^z_j - Γ Σ_i σ^x_i
 
 where:
 - J_{ij} are Gaussian random couplings
