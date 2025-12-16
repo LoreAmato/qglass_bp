@@ -1,0 +1,70 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checkers / caches
+.mypy_cache/
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# SQLite database files
+*.db
+
+# Optional: large data / intermediate files
+# data/
+# *.h5
+# *.npy
+# *.npz
+
