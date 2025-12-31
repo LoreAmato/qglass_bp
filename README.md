@@ -4,7 +4,7 @@ This repository contains a condensed implementation of the cavity method (belief
 
 References [1,2] have been used to develop this code.
 
-This code has been used to develop certain results in the last chapter of my PhD thesis, which is available [\here\]](https://doi.org/10.3929/ethz-c-000790113).
+This code has been used to develop certain results in the last chapter of my PhD thesis, which is available [\here](https://doi.org/10.3929/ethz-c-000790113).
 
 The condensation of the multiple codes used for this project, and the refinement of the repository, have been partially carried out using Cursor.
 
